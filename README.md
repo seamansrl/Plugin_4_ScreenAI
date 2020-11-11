@@ -11,6 +11,7 @@ Para realizar dicha tarea se utiliza las APIs de Proyecto Horus (http://www.proy
 # Como dialoga el HOST con el PLUGIN
 ScreenAI como host del plugin enviara un conjunto de valores formateados en JSON según la siguiente estructura:
 
+```json
 {
 "Data": [
 {
@@ -29,6 +30,8 @@ ScreenAI como host del plugin enviara un conjunto de valores formateados en JSON
 }
 ]
 }
+```
+
 Donde: 
 Code: Corresponde al valor de respuestas del servidor con 200 como un código que indica que el mensaje esta OK y con -1 como final del mensaje.
 X1 e Y1: Corresponden a valores sin escalar de las coordenadas del vertice superior izquierdo del box que delimita el área de detección. 
