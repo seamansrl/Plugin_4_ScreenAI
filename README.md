@@ -1,6 +1,8 @@
 # Plugin para ScreenAI
 En este proyecto se muestra la estructura básica de una librería/plugins para ScreenAI, el sistema de análisis de imagen basado en las API de Proyecto Horus.
 
+![Conexion entre TTL y ESP32-Cam](Conexionado.jpg)
+
 # ¿De que trata?
 El presente proyecto corresponde a un fuente demo para la creación de plugins para la interfaz de análisis de imagen ScreenAI el cual podrá descargar sin cargo desde:
 http://www.proyectohorus.com.ar/ScreenAI
