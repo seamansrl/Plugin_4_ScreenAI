@@ -101,7 +101,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="PluginInterface\PluginInterface.csproj">
+    <ProjectReference Include="..\PluginInterface\PluginInterface.csproj">
       <Project>{00d0c21d-d94c-4b0f-a710-1efbabb4c4c6}</Project>
       <Name>PluginInterface</Name>
     </ProjectReference>

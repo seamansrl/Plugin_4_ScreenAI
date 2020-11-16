@@ -1,12 +1,11 @@
 using System;
 using PluginInterface;
+using System.IO;
+using System.Drawing;
 
-namespace Inmediata
-{
-	public class Plugin : IPlugin
-	{
-		public Plugin()
-		{
+namespace Inmediata {
+	public class Plugin : IPlugin {
+		public Plugin() {
 
 		}
 
@@ -16,50 +15,48 @@ namespace Inmediata
 		public static String myVersion = "1.0.0";
 
 		public static String GlobalValue;
+		public static MemoryStream ImageStream;
+
 
 		IPluginHost myHost = null;
 		System.Windows.Forms.UserControl myMainInterface = new ctlMain();
 
 
-		public string Description
-		{
-			get {return myDescription;}
+		public string Description {
+			get { return myDescription; }
 		}
 
-		public string Author
-		{
-			get	{return myAuthor;}
+		public string Author {
+			get { return myAuthor; }
 		}
 
-		public IPluginHost Host
-		{
-			get {return myHost;}
-			set	{myHost = value;}
+		public IPluginHost Host {
+			get { return myHost; }
+			set { myHost = value; }
 		}
 
-		public string Name
-		{
-			get {return myName;}
+		public string Name {
+			get { return myName; }
 		}
 
-		public System.Windows.Forms.UserControl MainInterface
-		{
-			get {return myMainInterface;}
+		public System.Windows.Forms.UserControl MainInterface {
+			get { return myMainInterface; }
 		}
 
-		public string Version
-		{
-			get	{return myVersion;}
+		public string Version {
+			get { return myVersion; }
 		}
-		
-		public void Initialize()
-		{
+
+		public void Initialize() {
 
 		}
-		
-		public void Dispose()
-		{
 
+		public void Dispose() {
+
+		}
+
+		public MemoryStream Frame {
+			set { ImageStream = value; }
 		}
 
 		public string Input {
