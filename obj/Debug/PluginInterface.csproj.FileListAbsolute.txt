@@ -1,0 +1,18 @@
+C:\Users\g3ne5\Desktop\PluginPrototype\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\g3ne5\Desktop\PluginPrototype\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\g3ne5\Desktop\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+C:\Users\g3ne5\Desktop\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\g3ne5\Desktop\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\g3ne5\Desktop\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\PluginPrototype\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\PluginPrototype\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\PluginPrototype\PluginInterface\obj\Debug\PluginInterface.pdb
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\PluginInterface\bin\Debug\PluginInterface.dll
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\PluginInterface\bin\Debug\PluginInterface.pdb
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\PluginInterface\obj\Debug\PluginInterface.csprojAssemblyReference.cache
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\PluginInterface\obj\Debug\PluginInterface.csproj.CoreCompileInputs.cache
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\PluginInterface\obj\Debug\PluginInterface.dll
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\PluginInterface\obj\Debug\PluginInterface.pdb
