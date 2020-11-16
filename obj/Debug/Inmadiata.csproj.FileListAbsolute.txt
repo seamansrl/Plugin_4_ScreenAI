@@ -1,11 +1,11 @@
-C:\Users\g3ne5\Desktop\Plugin1\bin\Debug\Inmediata.dll
-C:\Users\g3ne5\Desktop\Plugin1\bin\Debug\Inmediata.pdb
-C:\Users\g3ne5\Desktop\Plugin1\bin\Debug\PluginInterface.dll
-C:\Users\g3ne5\Desktop\Plugin1\bin\Debug\PluginInterface.pdb
-C:\Users\g3ne5\Desktop\Plugin1\obj\Debug\Inmadiata.csprojAssemblyReference.cache
-C:\Users\g3ne5\Desktop\Plugin1\obj\Debug\Inmediata.ctlMain.resources
-C:\Users\g3ne5\Desktop\Plugin1\obj\Debug\Inmadiata.csproj.GenerateResource.cache
-C:\Users\g3ne5\Desktop\Plugin1\obj\Debug\Inmadiata.csproj.CoreCompileInputs.cache
-C:\Users\g3ne5\Desktop\Plugin1\obj\Debug\Inmadiata.csproj.CopyComplete
-C:\Users\g3ne5\Desktop\Plugin1\obj\Debug\Inmediata.dll
-C:\Users\g3ne5\Desktop\Plugin1\obj\Debug\Inmediata.pdb
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\bin\Debug\Inmediata.dll
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\bin\Debug\Inmediata.pdb
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\bin\Debug\PluginInterface.dll
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\bin\Debug\PluginInterface.pdb
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\obj\Debug\Inmadiata.csprojAssemblyReference.cache
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\obj\Debug\Inmediata.ctlMain.resources
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\obj\Debug\Inmadiata.csproj.GenerateResource.cache
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\obj\Debug\Inmadiata.csproj.CoreCompileInputs.cache
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\obj\Debug\Inmadiata.csproj.CopyComplete
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\obj\Debug\Inmediata.dll
+C:\Users\g3ne5\OneDrive\Programas personales\Proyecto Horus\Screen Analizer\ScreenAI Manager\Plugin1\obj\Debug\Inmediata.pdb
