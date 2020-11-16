@@ -1,4 +1,5 @@
 using System;
+using System.IO;
 
 namespace PluginInterface
 {
@@ -13,6 +14,8 @@ namespace PluginInterface
 
 		String Input { set; }
 		String Output { get; }
+
+		MemoryStream Frame { set; }
 
 		System.Windows.Forms.UserControl MainInterface {get;}
 		
