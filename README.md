@@ -46,3 +46,12 @@ Donde:
 - detected_id: Es el nombre canónico del objeto detectado en el box.
 - vector_id: Corresponde a un valor interno que define el traking de un box a lo largo de la captura.
 - Confidence: Por último Confidence nos indica que tan certera es la detección.
+
+# Contactanos en:
+https://www.linkedin.com/company/35599193/admin/
+
+# Seguime en:
+https://www.linkedin.com/in/fernando-p-maniglia/
+
+# Conocenos más en:
+https://www.seamansrl.com.ar
